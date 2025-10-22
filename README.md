@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Code Release | 代码发布
+## 🚀 Code Release
 
 📢 **Official implementation coming soon!**  
 
@@ -20,7 +20,7 @@ The source code, pretrained models, and training scripts will be released soon.
 
 ---
 
-## 📘 Citation | 引用信息
+## 📘 Citation
 
 If you find this work useful, please cite our paper:
 
