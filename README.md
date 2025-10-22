@@ -1,13 +1,18 @@
 # 🧠 GauSAM: Contour-Guided 2D Gaussian Fields for Multi-Scale Medical Image Segmentation with Segment Anything
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NeurIPS-2025-blueviolet?style=for-the-badge" alt="NeurIPS 2025" />
   <a href="https://neurips.cc/virtual/2025/poster/119713" target="_blank">
-    <img src="https://img.shields.io/badge/Paper-Available-blue?style=for-the-badge&logo=readme&logoColor=white" alt="Paper" />
+    <img src="https://img.shields.io/badge/NeurIPS-2025-6f42c1?style=flat&labelColor=2f253f" alt="NeurIPS 2025">
   </a>
-  <img src="https://img.shields.io/github/stars/WangJGG/GauSAM?style=for-the-badge&logo=github" alt="GitHub Stars" />
-  <img src="https://img.shields.io/badge/License-MIT-orange?style=for-the-badge" alt="MIT License" />
+  <a href="https://neurips.cc/virtual/2025/poster/119713" target="_blank">
+    <img src="https://img.shields.io/badge/Paper-Available-3572A5?style=flat&labelColor=1b1f24" alt="Paper">
+  </a>
+  <a href="https://github.com/WangJGG/GauSAM" target="_blank">
+    <img src="https://img.shields.io/github/stars/WangJGG/GauSAM?style=flat&labelColor=161b22" alt="GitHub Stars">
+  </a>
+  <img src="https://img.shields.io/badge/License-MIT-f39c12?style=flat&labelColor=222" alt="MIT License">
 </p>
+
 
 
 ---
